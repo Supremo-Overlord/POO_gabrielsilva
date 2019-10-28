@@ -1,0 +1,1 @@
+Profe le envio el capure de la parte 5, al momento de querer hacer el pull request no me dejaba. apenas entraba el boton de request no me dejaba seleccionar. Busque videos en youtube para guiarme pero mi github era diferente a la de ellos
